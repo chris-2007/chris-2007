@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Christopher Flores!
+---
 
-<!--
-**chris-2007/chris-2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰 Habilidades y Tecnologías
 
-Here are some ideas to get you started:
+**Lenguajes:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Herramientas & Entornos:**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🎯 Áreas de Interés
+* **Desarrollo Frontend & UX/UI:** Creación de interfaces accesibles, semánticas y optimizadas centradas en el usuario.
+* **Optimización & Algoritmos:** Análisis de rendimiento y complejidad asintótica ($\Theta$, Big-$O$).
+* **Modelado de Datos:** Análisis estadístico y estructuración eficiente de datos.
+
+---
+
+### 📫 Contacto & Redes
+
+<p align="left">
+  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
