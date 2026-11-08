@@ -21,14 +21,22 @@
 * **Modelado de Datos:** Análisis estadístico y estructuración eficiente de datos.
 
 ---
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **[Landing page para promocionar un evento cultural](https://github.com/chris-2007/ProyectoDAWM-landingpage)** | Breve descripción del problema que resuelve o su impacto. | `HTML` `CSS` |
+---
 
 ### 📫 Contacto & Redes
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="www.linkedin.com/in/
+christopher-mesias-flores-martinez-300690411
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="chrisflorescmfm07@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
